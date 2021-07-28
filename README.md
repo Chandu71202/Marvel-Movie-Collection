@@ -1,4 +1,4 @@
-<strong>MARVEL CINEMATIC UNIVERSE(MCU)</strong>
+<h1>MARVEL CINEMATIC UNIVERSE(MCU)</h1>
 
 Ever wondered why Marvel has such a huge fanbase throughout the world ?
   There are a number of things that are special about the MCU:
