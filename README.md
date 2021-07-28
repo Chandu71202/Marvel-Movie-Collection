@@ -1,7 +1,7 @@
 <h1>MARVEL CINEMATIC UNIVERSE(MCU)</h1>
 
 Ever wondered why Marvel has such a huge fanbase throughout the world ?
-  There are a number of things that are special about the MCU:
+There are a number of things that are special about the MCU:
   1. There have been almost 20 successful Marvel movies in a row, with none of them being financial failures (not all of them have been blockbusters at the same level, however)the       MCU movies have attracted A-list actors to both major and minor speaking roles, including Robert Downey.Jr,  Chirs Evans, Chirs Hemsworth, Benedict  Cumberbatch, Mark              Ruffalo, Scarlet Johannson, Tom Hiddleston, Jeremy Renner, Elizabeth Olsen, Anthony Machie, Sebastain Stan,,Samuel L. Jackson and many more others
   2. The movies are all interconnected in phases, so each phase of the Marvel movies connects with the others in its phase (for the most part) and there are callbacks and previews      to scenes from the prior movies. The material is very faithful to the source Marvel comics.
   3. There are some departures in character origins, and the sequence of events in the  Marvel comics vs. the MCU movies, but there has been a lot of attention to keeping the            depictions faithful to the comics and to represent key scenes in ways that are similar to their comic depiction (e.g. Thanos’ “snap”, Captain America vs. Iron Man in               Civil War, especially their final battle)
