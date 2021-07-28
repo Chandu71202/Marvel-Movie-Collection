@@ -19,7 +19,9 @@ NOTE:
 
 
 # Marvel-Movie-Collection
+
  1) This Repository consists of all Marvel Movies and Series . In the top you can see the main characters in the avengers. You can click on the characters and get to know about        the detailed info about the movies of them. 
- 2) There are Phase wise Movies and Timeline wise movies which you can get the detailed info about them by click on the click provided there 
- 3) I will e updating all the movies or series ASAP when it releases
- 4) There are a handfull of movies and series going to release in the 2nd half of 2021 and 2022 till 2023. You gonna definitely like every movie
+ 2) The root file is Marvel.html Please start from file and it navigates whereever you want.
+ 3) There are Phase wise Movies and Timeline wise movies which you can get the detailed info about them by click on the click provided there 
+ 4) I will e updating all the movies or series ASAP when it releases
+ 5) There are a handfull of movies and series going to release in the 2nd half of 2021 and 2022 till 2023. You gonna definitely like every movie
