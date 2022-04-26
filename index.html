@@ -2,13 +2,17 @@
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Marvel-Movie-Collection</title>
-        <link rel="icon" href="./logo.png" type="image/gif" sizes="16x16">
+<!--         <link rel="stylesheet" href="./style.css">
+ -->        <title>Marvel-Project</title>
         <style>
+            *{
+                margin: auto;
+                background-color: black;
+            }
             .logo{
-                background-color:red;
+                background-color: red;
                 color:white;
-                font-size:115px;
+                font-size:100px;
                 padding: 50px;
                 font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
                 text-align: center;
@@ -17,15 +21,37 @@
                 margin-right: 500px;
                 margin-bottom:275px ;
             }
+            .logo a{
+                color: white;
+                text-decoration: none;
+                background-color: red;
+                padding: 20 20 20 20;
+            }
+            #foot{
+                display: contents;
+            }
+            @media (max-width: 410px) {
+                .logo{
+                    background-color: red;
+                    color:white;
+                    text-align: center;
+                    width: 60%;
+                    height: 5%;
+                    margin-left: 6%;
+                    font-size:50px;
+                    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                    
+                }  
+            }
         </style>
     </head>
-    <body style="margin: auto; background-color: black;">
+    <body>
         <div class="logo">
-            <a href="./MARVEL PROJECT.html" style="color: white; text-decoration: none;">MARVEL</a>
+            <a href="./MARVEL PROJECT.html">MARVEL</a>
         </div>
     </body>
     <body>
-        <footer>
+        <footer id="foot">
             <p style="color: bisque">developed by EswarChand</p>
         </footer>
     </body>
