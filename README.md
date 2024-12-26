@@ -8,7 +8,6 @@ Ever wondered why Marvel has such a huge fanbase throughout the world ?<br>
   4.  The very special thing in Marvel which attracted me is the VFX part and the detailing they show in making the scenes. Even you watch any scene in 0.25x speed your mind gonna       blow that how VFX dept make those moves. A huge credits to the VFX dept for this. Each and every dialogue in every movie connects to some other movie. 
   5.   The Marvel Phase 4 is gonna be very very big with the multiverse's young Avengers and much more.
 
-  
 
 
 NOTE:
